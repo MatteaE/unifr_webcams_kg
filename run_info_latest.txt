@@ -1,0 +1,5 @@
+location camera new_files_downloaded_nfiles new_files_downloaded_latest_timestamp new_files_downloaded_size download_dir_nfiles download_dir_size download_dir_oldest_timestamp
+ABRA camera1 0 NA 0 0 0 NA
+ABRA camera2 0 NA 0 0 0 NA
+GOLU camera1 0 NA 0 0 0 NA
+GOLU camera2 0 NA 0 0 0 NA
