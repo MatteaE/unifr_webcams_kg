@@ -1,5 +1,5 @@
 location camera new_files_downloaded_nfiles new_files_downloaded_latest_timestamp new_files_downloaded_size download_dir_nfiles download_dir_size download_dir_oldest_timestamp
-ABRA camera1 0 NA 0 0 0 NA
-ABRA camera2 0 NA 0 0 0 NA
-GOLU camera1 0 NA 0 0 0 NA
-GOLU camera2 0 NA 0 0 0 NA
+ABRA camera1 20 1639555811 5369786 20 5369786 1639199409
+ABRA camera2 20 1639559409 5445873 20 5445873 1639203011
+GOLU camera1 18 1639470918 912990 18 912990 1005641410
+GOLU camera2 20 1637307323 2105132 20 2105132 1632828923
