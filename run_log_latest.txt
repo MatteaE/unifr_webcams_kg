@@ -1,42 +1,36 @@
-Started at 2022-09-14 12:01:04 +0200
+Started at 2022-09-14 12:07:23 +0200
 
 
 ===== Processing location ABRA =====
 
 == Processing camera camera1 ==
-Local archive contains 46 files before processing.
-Removing from the local archive 46 files which are now stored on the network archive...
+Local archive contains 1 files before processing.
+Removing from the local archive 1 files which are now stored on the network archive...
 FTP server currently has 47 files for the current location and camera.
 Of these, 47 files are not present in the local archive.
-Of these, 1 files are also not present in the network archive and will be downloaded now.
-1 / 1 
-Local archive contains 1 files after FTP processing.
-Unpacking and copying latest file...
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+Local archive contains 0 files after FTP processing.
 
 == Processing camera camera2 ==
-Local archive contains 46 files before processing.
-Removing from the local archive 46 files which are now stored on the network archive...
+Local archive contains 1 files before processing.
+Removing from the local archive 1 files which are now stored on the network archive...
 FTP server currently has 47 files for the current location and camera.
 Of these, 47 files are not present in the local archive.
-Of these, 1 files are also not present in the network archive and will be downloaded now.
-1 / 1 
-Local archive contains 1 files after FTP processing.
-Unpacking and copying latest file...
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+Local archive contains 0 files after FTP processing.
 
 
 ===== Processing location GOLU =====
 
 == Processing camera camera1 ==
-Local archive contains 18 files before processing.
-Removing from the local archive 18 files which are now stored on the network archive...
+Local archive is empty before processing.
 FTP server currently has 18 files for the current location and camera.
 Of these, 18 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
 Local archive contains 0 files after FTP processing.
 
 == Processing camera camera2 ==
-Local archive contains 20 files before processing.
-Removing from the local archive 20 files which are now stored on the network archive...
+Local archive is empty before processing.
 FTP server currently has 20 files for the current location and camera.
 Of these, 20 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
