@@ -1,4 +1,4 @@
-Started at 2022-09-14 12:25:49 +0200
+Started at 2022-09-14 12:30:04 +0200
 
 
 ===== Processing location ABRA =====
@@ -36,4 +36,3 @@ Local archive contains 0 files after FTP processing.
 
 
 Processing loops have finished.
-[1] TRUE
