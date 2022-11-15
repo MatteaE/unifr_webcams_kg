@@ -1,29 +1,23 @@
-Started at 2022-11-15 13:46:00 +0100
+Started at 2022-11-15 17:01:43 +0100
 
 
 ===== Processing location ABRA =====
 
 == Processing camera camera1 ==
-Local archive contains 1 files before processing.
-Removing from the local archive 1 files which are now stored on the network archive...
+Local archive contains 3 files before processing.
+Removing from the local archive 3 files which are now stored on the network archive...
 FTP server currently has 60 files for the current location and camera.
 Of these, 60 files are not present in the local archive.
-Of these, 3 files are also not present in the network archive and will be downloaded now.
-1 / 3 
-2 / 3 
-3 / 3 
-Local archive contains 3 files after FTP processing.
-Unpacking and copying latest file...
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+Local archive contains 0 files after FTP processing.
 
 == Processing camera camera2 ==
-Local archive contains 2 files before processing.
-Removing from the local archive 2 files which are now stored on the network archive...
+Local archive contains 1 files before processing.
+Removing from the local archive 1 files which are now stored on the network archive...
 FTP server currently has 54 files for the current location and camera.
 Of these, 54 files are not present in the local archive.
-Of these, 1 files are also not present in the network archive and will be downloaded now.
-1 / 1 
-Local archive contains 1 files after FTP processing.
-Unpacking and copying latest file...
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+Local archive contains 0 files after FTP processing.
 
 
 ===== Processing location GOLU =====
