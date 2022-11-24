@@ -1,19 +1,19 @@
-Started at 2022-11-23 13:45:44 +0100
+Started at 2022-11-24 13:45:44 +0100
 
 
 ===== Processing location ABRA =====
 
 == Processing camera camera1 ==
 Local archive is empty before processing.
-FTP server currently has 44 files for the current location and camera.
-Of these, 44 files are not present in the local archive.
+FTP server currently has 42 files for the current location and camera.
+Of these, 42 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
 Local archive contains 0 files after FTP processing.
 
 == Processing camera camera2 ==
 Local archive is empty before processing.
-FTP server currently has 38 files for the current location and camera.
-Of these, 38 files are not present in the local archive.
+FTP server currently has 36 files for the current location and camera.
+Of these, 36 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
 Local archive contains 0 files after FTP processing.
 
