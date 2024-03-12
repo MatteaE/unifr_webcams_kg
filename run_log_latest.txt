@@ -1,4 +1,4 @@
-Started at 2023-09-22 13:46:38 +0200
+Started at 2024-03-12 17:04:59 +0100
 
 
 ===== Processing location ABRA =====
@@ -12,19 +12,69 @@ Started at 2023-09-22 13:46:38 +0200
 == Processing camera camera1 ==
 Local archive contains 1 files before processing.
 Removing from the local archive 1 files which are now stored on the network archive...
-FTP server currently has 26 files for the current location and camera.
-Of these, 26 files are not present in the local archive.
-Of these, 0 files are also not present in the network archive and will be downloaded now.
-Local archive contains 0 files after FTP processing.
+FTP server currently has 20 files for the current location and camera.
+Of these, 20 files are not present in the local archive.
+Of these, 20 files are also not present in the network archive and will be downloaded now.
+1 / 20 
+2 / 20 
+3 / 20 
+4 / 20 
+5 / 20 
+6 / 20 
+7 / 20 
+8 / 20 
+9 / 20 
+10 / 20 
+11 / 20 
+12 / 20 
+13 / 20 
+14 / 20 
+15 / 20 
+16 / 20 
+17 / 20 
+18 / 20 
+19 / 20 
+20 / 20 
+Local archive contains 20 files after FTP processing.
+Unpacking and copying latest file...
 
 == Processing camera camera2 ==
 Local archive contains 1 files before processing.
 Removing from the local archive 1 files which are now stored on the network archive...
-FTP server currently has 26 files for the current location and camera.
-Of these, 26 files are not present in the local archive.
-Of these, 0 files are also not present in the network archive and will be downloaded now.
-Local archive contains 0 files after FTP processing.
+FTP server currently has 28 files for the current location and camera.
+Of these, 28 files are not present in the local archive.
+Of these, 28 files are also not present in the network archive and will be downloaded now.
+1 / 28 
+2 / 28 
+3 / 28 
+4 / 28 
+5 / 28 
+6 / 28 
+7 / 28 
+8 / 28 
+9 / 28 
+10 / 28 
+11 / 28 
+12 / 28 
+13 / 28 
+14 / 28 
+15 / 28 
+16 / 28 
+17 / 28 
+18 / 28 
+19 / 28 
+20 / 28 
+21 / 28 
+22 / 28 
+23 / 28 
+24 / 28 
+25 / 28 
+26 / 28 
+27 / 28 
+28 / 28 
+Local archive contains 28 files after FTP processing.
+Unpacking and copying latest file...
 
 
 Processing loops have finished.
-[1] FALSE
+[1] TRUE
