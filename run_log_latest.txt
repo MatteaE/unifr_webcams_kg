@@ -1,4 +1,4 @@
-Started at 2024-04-18 13:45:46 +0200
+Started at 2024-04-19 13:45:46 +0200
 
 
 ===== Processing location ABRA =====
@@ -19,8 +19,8 @@ Local archive contains 0 files after FTP processing.
 == Processing camera camera2 ==
 Local archive contains 1 files before processing.
 Removing from the local archive 1 files which are now stored on the network archive...
-FTP server currently has 34 files for the current location and camera.
-Of these, 34 files are not present in the local archive.
+FTP server currently has 33 files for the current location and camera.
+Of these, 33 files are not present in the local archive.
 Of these, 1 files are also not present in the network archive and will be downloaded now.
 1 / 1 
 Local archive contains 1 files after FTP processing.
