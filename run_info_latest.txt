@@ -2,4 +2,4 @@ location camera new_files_downloaded_nfiles new_files_downloaded_latest_timestam
 ABRA camera1 0 1667550911 0 0 0 NA
 ABRA camera2 0 1667550913 0 0 0 NA
 GOLU camera1 0 1734334750 0 0 0 NA
-GOLU camera2 0 1741610781 0 0 0 NA
+GOLU camera2 5 1742561179 790558 5 790558 1742215291
