@@ -1,178 +1,223 @@
-Started at 2025-11-03 20:12:24 +0100
+Started at 2025-11-03 20:15:19 +0100
 
 
 ===== Processing location ABRA =====
 
 == Processing camera camera1 ==
 Local archive contains 89 files before processing.
-Removing from the local archive 0 files which are now stored on the network archive...
+Removing from the local archive 89 files which are now stored on the network archive...
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[25] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[49] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[73] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+Local archive is empty before processing.
 FTP server currently has 64 files for the current location and camera.
-Of these, 0 files are not present in the local archive.
+Of these, 64 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
-Local archive contains 89 files after FTP processing.
+named list()
+[1] 0
+Local archive contains 0 files after FTP processing.
+
+
+===== Processing location ABRA =====
+
+== Processing camera camera1 ==
+Local archive contains 1 files before processing.
+FTP server currently has 64 files for the current location and camera.
+Of these, 63 files are not present in the local archive.
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+[1] 0
+Local archive contains 1 files after FTP processing.
 Unpacking and copying latest file...
-Problem with extraction of data/status/ABRA-camera1.tar.bz2 - no jpg file found afterwards! Please check.
+[1] TRUE
+[1] TRUE
+
 == Processing camera camera2 ==
-Local archive contains 14 files before processing.
-Removing from the local archive 0 files which are now stored on the network archive...
+Local archive contains 65 files before processing.
+Removing from the local archive 65 files which are now stored on the network archive...
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[25] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[49] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+== Processing camera camera2 ==
+Local archive contains 1 files before processing.
 FTP server currently has 51 files for the current location and camera.
-Of these, 51 files are not present in the local archive.
-Of these, 51 files are also not present in the network archive and will be downloaded now.
-1 / 51 
-2 / 51 
-3 / 51 
-4 / 51 
-5 / 51 
-6 / 51 
-7 / 51 
-8 / 51 
-9 / 51 
-10 / 51 
-11 / 51 
-12 / 51 
-13 / 51 
-14 / 51 
-15 / 51 
-16 / 51 
-17 / 51 
-18 / 51 
-19 / 51 
-20 / 51 
-21 / 51 
-22 / 51 
-23 / 51 
-24 / 51 
-25 / 51 
-26 / 51 
-27 / 51 
-28 / 51 
-29 / 51 
-30 / 51 
-31 / 51 
-32 / 51 
-33 / 51 
-34 / 51 
-35 / 51 
-36 / 51 
-37 / 51 
-38 / 51 
-39 / 51 
-40 / 51 
-41 / 51 
-42 / 51 
-43 / 51 
-44 / 51 
-45 / 51 
-46 / 51 
-47 / 51 
-48 / 51 
-49 / 51 
-50 / 51 
-51 / 51 
-Local archive contains 65 files after FTP processing.
+Of these, 50 files are not present in the local archive.
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+Local archive contains 1 files after FTP processing.
 Unpacking and copying latest file...
-Problem with extraction of data/status/ABRA-camera2.tar.bz2 - no jpg file found afterwards! Please check.
+[1] TRUE
+[1] TRUE
+
 
 ===== Processing location GOLU =====
 
 == Processing camera camera1 ==
+Local archive contains 24 files before processing.
+ [1] "GOLU-camera1-1759476921.tar.bz2" "GOLU-camera1-1759563322.tar.bz2" "GOLU-camera1-1759649721.tar.bz2"
+ [4] "GOLU-camera1-1759736119.tar.bz2" "GOLU-camera1-1759822521.tar.bz2" "GOLU-camera1-1759908921.tar.bz2"
+ [7] "GOLU-camera1-1759995321.tar.bz2" "GOLU-camera1-1760081721.tar.bz2" "GOLU-camera1-1760168120.tar.bz2"
+[10] "GOLU-camera1-1760254521.tar.bz2" "GOLU-camera1-1760427320.tar.bz2" "GOLU-camera1-1760517405.tar.bz2"
+[13] "GOLU-camera1-1760600156.tar.bz2" "GOLU-camera1-1760686519.tar.bz2" "GOLU-camera1-1760776605.tar.bz2"
+[16] "GOLU-camera1-1760859319.tar.bz2" "GOLU-camera1-1760945717.tar.bz2" "GOLU-camera1-1761032116.tar.bz2"
+[19] "GOLU-camera1-1761125833.tar.bz2" "GOLU-camera1-1761291317.tar.bz2" "GOLU-camera1-1761636916.tar.bz2"
+[22] "GOLU-camera1-1761896119.tar.bz2" "GOLU-camera1-1762068919.tar.bz2" "GOLU-camera1-1762068919.tar.bz2"
+   year                      filepath_parent                                          filepath_full
+1  2025 2025/GOLU-camera1-1759476921.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1759476921.tar.bz2
+2  2025 2025/GOLU-camera1-1759563322.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1759563322.tar.bz2
+3  2025 2025/GOLU-camera1-1759649721.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1759649721.tar.bz2
+4  2025 2025/GOLU-camera1-1759736119.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1759736119.tar.bz2
+5  2025 2025/GOLU-camera1-1759822521.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1759822521.tar.bz2
+6  2025 2025/GOLU-camera1-1759908921.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1759908921.tar.bz2
+7  2025 2025/GOLU-camera1-1759995321.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1759995321.tar.bz2
+8  2025 2025/GOLU-camera1-1760081721.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760081721.tar.bz2
+9  2025 2025/GOLU-camera1-1760168120.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760168120.tar.bz2
+10 2025 2025/GOLU-camera1-1760254521.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760254521.tar.bz2
+11 2025 2025/GOLU-camera1-1760427320.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760427320.tar.bz2
+12 2025 2025/GOLU-camera1-1760517405.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760517405.tar.bz2
+13 2025 2025/GOLU-camera1-1760600156.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760600156.tar.bz2
+14 2025 2025/GOLU-camera1-1760686519.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760686519.tar.bz2
+15 2025 2025/GOLU-camera1-1760776605.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760776605.tar.bz2
+16 2025 2025/GOLU-camera1-1760859319.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760859319.tar.bz2
+17 2025 2025/GOLU-camera1-1760945717.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760945717.tar.bz2
+18 2025 2025/GOLU-camera1-1761032116.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761032116.tar.bz2
+19 2025 2025/GOLU-camera1-1761125833.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761125833.tar.bz2
+20 2025 2025/GOLU-camera1-1761291317.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761291317.tar.bz2
+21 2025 2025/GOLU-camera1-1761636916.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761636916.tar.bz2
+22 2025 2025/GOLU-camera1-1761896119.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761896119.tar.bz2
+23 2025 2025/GOLU-camera1-1762068919.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1762068919.tar.bz2
+24   NA      GOLU-camera1-1762068919.tar.bz2      data/GOLU/camera1/GOLU-camera1-1762068919.tar.bz2
+                          filename  timestamp
+1  GOLU-camera1-1759476921.tar.bz2 1759476921
+2  GOLU-camera1-1759563322.tar.bz2 1759563322
+3  GOLU-camera1-1759649721.tar.bz2 1759649721
+4  GOLU-camera1-1759736119.tar.bz2 1759736119
+5  GOLU-camera1-1759822521.tar.bz2 1759822521
+6  GOLU-camera1-1759908921.tar.bz2 1759908921
+7  GOLU-camera1-1759995321.tar.bz2 1759995321
+8  GOLU-camera1-1760081721.tar.bz2 1760081721
+9  GOLU-camera1-1760168120.tar.bz2 1760168120
+10 GOLU-camera1-1760254521.tar.bz2 1760254521
+11 GOLU-camera1-1760427320.tar.bz2 1760427320
+12 GOLU-camera1-1760517405.tar.bz2 1760517405
+13 GOLU-camera1-1760600156.tar.bz2 1760600156
+14 GOLU-camera1-1760686519.tar.bz2 1760686519
+15 GOLU-camera1-1760776605.tar.bz2 1760776605
+16 GOLU-camera1-1760859319.tar.bz2 1760859319
+17 GOLU-camera1-1760945717.tar.bz2 1760945717
+18 GOLU-camera1-1761032116.tar.bz2 1761032116
+19 GOLU-camera1-1761125833.tar.bz2 1761125833
+20 GOLU-camera1-1761291317.tar.bz2 1761291317
+21 GOLU-camera1-1761636916.tar.bz2 1761636916
+22 GOLU-camera1-1761896119.tar.bz2 1761896119
+23 GOLU-camera1-1762068919.tar.bz2 1762068919
+24 GOLU-camera1-1762068919.tar.bz2 1762068919
+
+== Processing camera camera1 ==
+Local archive contains 23 files before processing.
+Removing from the local archive 23 files which are now stored on the network archive...
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 Local archive contains 1 files before processing.
-Removing from the local archive 1 files which are now stored on the network archive...
 FTP server currently has 23 files for the current location and camera.
-Of these, 23 files are not present in the local archive.
-Of these, 23 files are also not present in the network archive and will be downloaded now.
-1 / 23 
-2 / 23 
-3 / 23 
-4 / 23 
-5 / 23 
-6 / 23 
-7 / 23 
-8 / 23 
-9 / 23 
-10 / 23 
-11 / 23 
-12 / 23 
-13 / 23 
-14 / 23 
-15 / 23 
-16 / 23 
-17 / 23 
-18 / 23 
-19 / 23 
-20 / 23 
-21 / 23 
-22 / 23 
-23 / 23 
-Local archive contains 23 files after FTP processing.
+Of these, 22 files are not present in the local archive.
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+named list()
+Local archive contains 1 files after FTP processing.
 Unpacking and copying latest file...
-Problem with extraction of data/status/GOLU-camera1.tar.bz2 - no jpg file found afterwards! Please check.
+[1] TRUE
+[1] TRUE
+
 == Processing camera camera2 ==
+Local archive contains 25 files before processing.
+Removing from the local archive 25 files which are now stored on the network archive...
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[25] TRUE
 Local archive contains 1 files before processing.
-Removing from the local archive 1 files which are now stored on the network archive...
 FTP server currently has 25 files for the current location and camera.
-Of these, 25 files are not present in the local archive.
-Of these, 25 files are also not present in the network archive and will be downloaded now.
-1 / 25 
-2 / 25 
-3 / 25 
-4 / 25 
-5 / 25 
-6 / 25 
-7 / 25 
-8 / 25 
-9 / 25 
-10 / 25 
-11 / 25 
-12 / 25 
-13 / 25 
-14 / 25 
-15 / 25 
-16 / 25 
-17 / 25 
-18 / 25 
-19 / 25 
-20 / 25 
-21 / 25 
-22 / 25 
-23 / 25 
-24 / 25 
-25 / 25 
-Local archive contains 25 files after FTP processing.
+Of these, 24 files are not present in the local archive.
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+named list()
+Local archive contains 1 files after FTP processing.
 Unpacking and copying latest file...
-Problem with extraction of data/status/GOLU-camera2.tar.bz2 - no jpg file found afterwards! Please check.
+[1] TRUE
+[1] TRUE
+
 
 Processing loops have finished.
-FTP server currently has 25 files for the current location and camera.
-Of these, 25 files are not present in the local archive.
-Of these, 25 files are also not present in the network archive and will be downloaded now.
-1 / 25 
-2 / 25 
-3 / 25 
-4 / 25 
-5 / 25 
-6 / 25 
-7 / 25 
-8 / 25 
-9 / 25 
-10 / 25 
-11 / 25 
-12 / 25 
-13 / 25 
-14 / 25 
-15 / 25 
-16 / 25 
-17 / 25 
-18 / 25 
-19 / 25 
-20 / 25 
-21 / 25 
-22 / 25 
-23 / 25 
-24 / 25 
-25 / 25 
-Local archive contains 25 files after FTP processing.
+[1] 3
+9995321.tar.bz2
+8  2025 2025/GOLU-camera1-1760081721.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760081721.tar.bz2
+9  2025 2025/GOLU-camera1-1760168120.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760168120.tar.bz2
+10 2025 2025/GOLU-camera1-1760254521.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760254521.tar.bz2
+11 2025 2025/GOLU-camera1-1760427320.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760427320.tar.bz2
+12 2025 2025/GOLU-camera1-1760517405.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760517405.tar.bz2
+13 2025 2025/GOLU-camera1-1760600156.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760600156.tar.bz2
+14 2025 2025/GOLU-camera1-1760686519.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760686519.tar.bz2
+15 2025 2025/GOLU-camera1-1760776605.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760776605.tar.bz2
+16 2025 2025/GOLU-camera1-1760859319.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760859319.tar.bz2
+17 2025 2025/GOLU-camera1-1760945717.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1760945717.tar.bz2
+18 2025 2025/GOLU-camera1-1761032116.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761032116.tar.bz2
+19 2025 2025/GOLU-camera1-1761125833.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761125833.tar.bz2
+20 2025 2025/GOLU-camera1-1761291317.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761291317.tar.bz2
+21 2025 2025/GOLU-camera1-1761636916.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761636916.tar.bz2
+22 2025 2025/GOLU-camera1-1761896119.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1761896119.tar.bz2
+23 2025 2025/GOLU-camera1-1762068919.tar.bz2 data/GOLU/camera1/2025/GOLU-camera1-1762068919.tar.bz2
+24   NA      GOLU-camera1-1762068919.tar.bz2      data/GOLU/camera1/GOLU-camera1-1762068919.tar.bz2
+                          filename  timestamp
+1  GOLU-camera1-1759476921.tar.bz2 1759476921
+2  GOLU-camera1-1759563322.tar.bz2 1759563322
+3  GOLU-camera1-1759649721.tar.bz2 1759649721
+4  GOLU-camera1-1759736119.tar.bz2 1759736119
+5  GOLU-camera1-1759822521.tar.bz2 1759822521
+6  GOLU-camera1-1759908921.tar.bz2 1759908921
+7  GOLU-camera1-1759995321.tar.bz2 1759995321
+8  GOLU-camera1-1760081721.tar.bz2 1760081721
+9  GOLU-camera1-1760168120.tar.bz2 1760168120
+10 GOLU-camera1-1760254521.tar.bz2 1760254521
+11 GOLU-camera1-1760427320.tar.bz2 1760427320
+12 GOLU-camera1-1760517405.tar.bz2 1760517405
+13 GOLU-camera1-1760600156.tar.bz2 1760600156
+14 GOLU-camera1-1760686519.tar.bz2 1760686519
+15 GOLU-camera1-1760776605.tar.bz2 1760776605
+16 GOLU-camera1-1760859319.tar.bz2 1760859319
+17 GOLU-camera1-1760945717.tar.bz2 1760945717
+18 GOLU-camera1-1761032116.tar.bz2 1761032116
+19 GOLU-camera1-1761125833.tar.bz2 1761125833
+20 GOLU-camera1-1761291317.tar.bz2 1761291317
+21 GOLU-camera1-1761636916.tar.bz2 1761636916
+22 GOLU-camera1-1761896119.tar.bz2 1761896119
+23 GOLU-camera1-1762068919.tar.bz2 1762068919
+24 GOLU-camera1-1762068919.tar.bz2 1762068919
+
+== Processing camera camera1 ==
+Local archive contains 23 files before processing.
+Removing from the local archive 23 files which are now stored on the network archive...
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+Local archive contains 1 files before processing.
+FTP server currently has 23 files for the current location and camera.
+Of these, 22 files are not present in the local archive.
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+named list()
+Local archive contains 1 files after FTP processing.
 Unpacking and copying latest file...
-Problem with extraction of data/status/GOLU-camera2.tar.bz2 - no jpg file found afterwards! Please check.
+[1] TRUE
+[1] TRUE
+
+== Processing camera camera2 ==
+Local archive contains 25 files before processing.
+Removing from the local archive 25 files which are now stored on the network archive...
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[25] TRUE
+Local archive contains 1 files before processing.
+FTP server currently has 25 files for the current location and camera.
+Of these, 24 files are not present in the local archive.
+Of these, 0 files are also not present in the network archive and will be downloaded now.
+named list()
+Local archive contains 1 files after FTP processing.
+Unpacking and copying latest file...
+[1] TRUE
+[1] TRUE
+
 
 Processing loops have finished.
+[1] 3
