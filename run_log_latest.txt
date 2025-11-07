@@ -1,4 +1,4 @@
-Started at 2025-11-06 13:45:45 +0100
+Started at 2025-11-07 13:45:45 +0100
 
 
 ===== Processing location ABRA =====
@@ -18,26 +18,32 @@ Problem with extraction of data/status/ABRA-camera1.tar.bz2 - no jpg file found 
 Local archive is empty before processing.
 FTP server currently has 50 files for the current location and camera.
 Of these, 50 files are not present in the local archive.
-Of these, 0 files are also not present in the network archive and will be downloaded now.
-Local archive contains 0 files after FTP processing.
-
+Of these, 1 files are also not present in the network archive and will be downloaded now.
+1 / 1 
+Local archive contains 1 files after FTP processing.
+Unpacking and copying latest file...
+Problem with extraction of data/status/ABRA-camera2.tar.bz2 - no jpg file found afterwards! Please check.
 
 ===== Processing location GOLU =====
 
 == Processing camera camera1 ==
 Local archive is empty before processing.
-FTP server currently has 20 files for the current location and camera.
-Of these, 20 files are not present in the local archive.
-Of these, 0 files are also not present in the network archive and will be downloaded now.
-Local archive contains 0 files after FTP processing.
-
+FTP server currently has 21 files for the current location and camera.
+Of these, 21 files are not present in the local archive.
+Of these, 1 files are also not present in the network archive and will be downloaded now.
+1 / 1 
+Local archive contains 1 files after FTP processing.
+Unpacking and copying latest file...
+Problem with extraction of data/status/GOLU-camera1.tar.bz2 - no jpg file found afterwards! Please check.
 == Processing camera camera2 ==
 Local archive is empty before processing.
 FTP server currently has 22 files for the current location and camera.
 Of these, 22 files are not present in the local archive.
-Of these, 0 files are also not present in the network archive and will be downloaded now.
-Local archive contains 0 files after FTP processing.
-
+Of these, 1 files are also not present in the network archive and will be downloaded now.
+1 / 1 
+Local archive contains 1 files after FTP processing.
+Unpacking and copying latest file...
+Problem with extraction of data/status/GOLU-camera2.tar.bz2 - no jpg file found afterwards! Please check.
 
 Processing loops have finished.
 [1] TRUE
