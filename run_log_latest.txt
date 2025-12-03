@@ -1,4 +1,4 @@
-Started at 2025-12-02 19:24:06 +0100
+Started at 2025-12-03 13:45:46 +0100
 
 
 ===== Processing location ABRA =====
@@ -7,9 +7,12 @@ Started at 2025-12-02 19:24:06 +0100
 Local archive is empty before processing.
 FTP server currently has 64 files for the current location and camera.
 Of these, 64 files are not present in the local archive.
-Of these, 0 files are also not present in the network archive and will be downloaded now.
-Local archive contains 0 files after FTP processing.
-
+Of these, 2 files are also not present in the network archive and will be downloaded now.
+1 / 2 
+2 / 2 
+Local archive contains 2 files after FTP processing.
+Unpacking and copying latest file...
+Problem with extraction of data/status/ABRA-camera1.tar.bz2 - no jpg file found afterwards! Please check.
 == Processing camera camera2 ==
 Local archive is empty before processing.
 FTP server currently has 20 files for the current location and camera.
