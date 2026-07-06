@@ -1,19 +1,19 @@
-Started at 2026-07-05 13:45:46 +0200
+Started at 2026-07-06 13:45:46 +0200
 
 
 ===== Processing location ABRA =====
 
 == Processing camera camera1 ==
 Local archive is empty before processing.
-FTP server currently has 54 files for the current location and camera.
-Of these, 54 files are not present in the local archive.
+FTP server currently has 52 files for the current location and camera.
+Of these, 52 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
 Local archive contains 0 files after FTP processing.
 
 == Processing camera camera2 ==
 Local archive is empty before processing.
-FTP server currently has 18 files for the current location and camera.
-Of these, 18 files are not present in the local archive.
+FTP server currently has 16 files for the current location and camera.
+Of these, 16 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
 Local archive contains 0 files after FTP processing.
 
@@ -22,15 +22,15 @@ Local archive contains 0 files after FTP processing.
 
 == Processing camera camera1 ==
 Local archive is empty before processing.
-FTP server currently has 22 files for the current location and camera.
-Of these, 22 files are not present in the local archive.
+FTP server currently has 21 files for the current location and camera.
+Of these, 21 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
 Local archive contains 0 files after FTP processing.
 
 == Processing camera camera2 ==
 Local archive is empty before processing.
-FTP server currently has 21 files for the current location and camera.
-Of these, 21 files are not present in the local archive.
+FTP server currently has 20 files for the current location and camera.
+Of these, 20 files are not present in the local archive.
 Of these, 0 files are also not present in the network archive and will be downloaded now.
 Local archive contains 0 files after FTP processing.
 
