@@ -1,11 +1,194 @@
-Started at 2026-08-28 13:45:46 +0200
+Started at 2026-08-29 13:45:46 +0200
 
 
 ===== Processing location ABRA =====
 
+== Processing camera camera1 ==
+Local archive is empty before processing.
+FTP server currently has 64 files for the current location and camera.
+Of these, 64 files are not present in the local archive.
+Of these, 64 files are also not present in the network archive and will be downloaded now.
+1 / 64 
+2 / 64 
+3 / 64 
+4 / 64 
+5 / 64 
+6 / 64 
+7 / 64 
+8 / 64 
+9 / 64 
+10 / 64 
+11 / 64 
+12 / 64 
+13 / 64 
+14 / 64 
+15 / 64 
+16 / 64 
+17 / 64 
+18 / 64 
+19 / 64 
+20 / 64 
+21 / 64 
+22 / 64 
+23 / 64 
+24 / 64 
+25 / 64 
+26 / 64 
+27 / 64 
+28 / 64 
+29 / 64 
+30 / 64 
+31 / 64 
+32 / 64 
+33 / 64 
+34 / 64 
+35 / 64 
+36 / 64 
+37 / 64 
+38 / 64 
+39 / 64 
+40 / 64 
+41 / 64 
+42 / 64 
+43 / 64 
+44 / 64 
+45 / 64 
+46 / 64 
+47 / 64 
+48 / 64 
+49 / 64 
+50 / 64 
+51 / 64 
+52 / 64 
+53 / 64 
+54 / 64 
+55 / 64 
+56 / 64 
+57 / 64 
+58 / 64 
+59 / 64 
+60 / 64 
+61 / 64 
+62 / 64 
+63 / 64 
+64 / 64 
+Local archive contains 64 files after FTP processing.
+Unpacking and copying latest file...
+Problem with extraction of data/status/ABRA-camera1.tar.bz2 - no jpg file found afterwards! Please check.
+== Processing camera camera2 ==
+Local archive is empty before processing.
+FTP server currently has 30 files for the current location and camera.
+Of these, 30 files are not present in the local archive.
+Of these, 27 files are also not present in the network archive and will be downloaded now.
+1 / 27 
+2 / 27 
+3 / 27 
+4 / 27 
+5 / 27 
+6 / 27 
+7 / 27 
+8 / 27 
+9 / 27 
+10 / 27 
+11 / 27 
+12 / 27 
+13 / 27 
+14 / 27 
+15 / 27 
+16 / 27 
+17 / 27 
+18 / 27 
+19 / 27 
+20 / 27 
+21 / 27 
+22 / 27 
+23 / 27 
+24 / 27 
+25 / 27 
+26 / 27 
+27 / 27 
+Local archive contains 27 files after FTP processing.
+Unpacking and copying latest file...
+Problem with extraction of data/status/ABRA-camera2.tar.bz2 - no jpg file found afterwards! Please check.
 
 ===== Processing location GOLU =====
 
+== Processing camera camera1 ==
+Local archive is empty before processing.
+FTP server currently has 31 files for the current location and camera.
+Of these, 31 files are not present in the local archive.
+Of these, 31 files are also not present in the network archive and will be downloaded now.
+1 / 31 
+2 / 31 
+3 / 31 
+4 / 31 
+5 / 31 
+6 / 31 
+7 / 31 
+8 / 31 
+9 / 31 
+10 / 31 
+11 / 31 
+12 / 31 
+13 / 31 
+14 / 31 
+15 / 31 
+16 / 31 
+17 / 31 
+18 / 31 
+19 / 31 
+20 / 31 
+21 / 31 
+22 / 31 
+23 / 31 
+24 / 31 
+25 / 31 
+26 / 31 
+27 / 31 
+28 / 31 
+29 / 31 
+30 / 31 
+31 / 31 
+Local archive contains 31 files after FTP processing.
+Unpacking and copying latest file...
+Problem with extraction of data/status/GOLU-camera1.tar.bz2 - no jpg file found afterwards! Please check.
+== Processing camera camera2 ==
+Local archive is empty before processing.
+FTP server currently has 29 files for the current location and camera.
+Of these, 29 files are not present in the local archive.
+Of these, 29 files are also not present in the network archive and will be downloaded now.
+1 / 29 
+2 / 29 
+3 / 29 
+4 / 29 
+5 / 29 
+6 / 29 
+7 / 29 
+8 / 29 
+9 / 29 
+10 / 29 
+11 / 29 
+12 / 29 
+13 / 29 
+14 / 29 
+15 / 29 
+16 / 29 
+17 / 29 
+18 / 29 
+19 / 29 
+20 / 29 
+21 / 29 
+22 / 29 
+23 / 29 
+24 / 29 
+25 / 29 
+26 / 29 
+27 / 29 
+28 / 29 
+29 / 29 
+Local archive contains 29 files after FTP processing.
+Unpacking and copying latest file...
+Problem with extraction of data/status/GOLU-camera2.tar.bz2 - no jpg file found afterwards! Please check.
 
 Processing loops have finished.
 [1] TRUE
